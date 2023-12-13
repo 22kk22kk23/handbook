@@ -116,7 +116,9 @@ Junior Barista: The first rank that can work behind the counter and passed a tra
 
 Barista: Works behind the counter, and serves customers.
 
-Senior Barista: Works behind the counter, and serves customers. They are preparing to be Staff Assistant.
+Senior Barista: Works behind the counter, and serves customers. They are pro's at being Baristas.
+
+Management Intern: They are the highest LR ranks, they manage the kitchen, can be obtained by hard work or 5K points. They are preparing to be SA.
 
 MIDDLE RANKS (MR):
 
@@ -126,9 +128,7 @@ Supervisor: Supervises the cafe, and trains others.
 
 Assistant Manager: Also known as Junior Manager, they are MR ranks that assist the other manager ranks. They have basic knowledge about being a manager.
 
-Manager: A MR rank that manages the cafe, they supervise the cafe too.
-
-Gerenal Manager: The highest MR rank, also known as Senior Manager. They are high experienced managers and is able to co-host trainings.
+General Manager: The highest MR rank, also known as the Manager. They are high experienced managers and is able to co-host trainings.
 
 HIGH RANKS (HR):
 
